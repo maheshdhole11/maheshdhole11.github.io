@@ -126,7 +126,7 @@ details p { margin: 10px 0 2px 0; font-size: 0.95rem; }
   flex-wrap: wrap;
 }
 .intro-photo {
-  width: 210px;
+  width: 280px;
   flex-shrink: 0;
 }
 .intro-photo img {
@@ -135,7 +135,7 @@ details p { margin: 10px 0 2px 0; font-size: 0.95rem; }
   border: 1px solid var(--rule);
 }
 .photo-placeholder {
-  width: 210px;
+  width: 280px;
   height: 260px;
   background: var(--bg-alt);
   border: 1px dashed var(--rule);
