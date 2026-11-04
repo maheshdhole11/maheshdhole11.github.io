@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maheshdhole11.github.io/sitemap.xml
